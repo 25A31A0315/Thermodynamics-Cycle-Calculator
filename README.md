@@ -1,0 +1,1 @@
+This project calculates the performance of major thermodynamic cycles such as Carnot Cycle, Otto Cycle, Diesel Cycle, and Rankine Cycle. It computes efficiency, work output, and heat transfer using user inputs like temperature, pressure, and compression ratio. Developed for mechanical engineering learning and analysis.
